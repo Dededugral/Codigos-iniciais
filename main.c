@@ -35,7 +35,6 @@ int main(){
             break;
         } else {
             printf("Entrada invalida! Digite um numero de 1 a 5: \n");
-            main();
         }
     }
     if (escolha == 5){
